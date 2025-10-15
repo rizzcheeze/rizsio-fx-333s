@@ -1,2 +1,2 @@
 # rizsio-fx-333s
-scientific calcu for DSA ,will update if we pass ^v^
+scientific calcu python tkinter for DSA, will update if we pass ^v^
